@@ -22,11 +22,13 @@
                     <div class="col-xs-12 col-sm-12 col-md-12">
                         <div class="list-group">
                             <a href="#" class="list-group-item  list-group-item-action active">
-                                Cras justo odio
+                                Task A
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in
+                            <a href="#" class="list-group-item list-group-item-action">
+                                Task B
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action disabled">Morbi leo risus
+                            <a href="#" class="list-group-item list-group-item-action disabled">
+                                Tas
                             </a>
                         </div>
 
