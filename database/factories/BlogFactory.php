@@ -7,7 +7,7 @@ $factory->define(App\blog::class, function (Faker $faker) {
         //
         'title' => $faker->title,
         'body' => $faker->sentence,
-        'user_id' => factory('App\User')->create()git ->id,
+        'user_id' => factory('App\User')->create() ->id,
 //        'user_id'=>$faker->unique()->randomDigit,
     ];
 });
